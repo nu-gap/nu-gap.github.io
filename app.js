@@ -1,4 +1,5 @@
 const apps = [
+['Resound','apps-resound','Productivity','♫','amber','A historical Rhapsody sound editor with effects modules. Source preserved for GNUstep porting; not yet a GNUstep build.'],
 ['StepDown','stepdown','Productivity','▤','sage','Write Markdown with a live native preview. A small editor for GNUstep and macOS.'],
 ['FileViewer','Finder','System','▱','blue','A native GNUstep file manager with folder navigation, multiple views, and file operations.'],
 ['Prompt','apps-prompt','Development','>_','ink','A GNUstep VT100/VT220 terminal emulator with named profiles and native AppKit controls.'],
