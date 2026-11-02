@@ -7,6 +7,7 @@ const apps = [
 ['ManOpen','manopen','Productivity','man','rose','Read and search Unix manual pages in a graphical desktop application.'],
 ['Grandmaster Chess','apps-gschess','Games & demos','♞','sand','A native chess app with legal move validation, a computer opponent, and move history.'],
 ['CPUCheck','apps-cpucheck','System','▂▆▃','sage','Monitor Linux CPU activity with an overall percentage and per-CPU usage bars.'],
+['Process Monitor','apps-processmonitor','System','≡','amber','View Linux CPU and memory usage, inspect running processes, and manage their state and priority in a native GNUstep app.'],
 ['MemWatch','apps-memwatch','System','▥','blue','Keep track of Linux memory and swap usage from a compact GNUstep status item.'],
 ['NetCheck','apps-netcheck','System','⇄','rose','Watch receive and transmit activity across Linux network interfaces from the dock.'],
 ['WorkspaceSwitcher','apps-workspaces','System','▦','sand','Switch between X11 virtual desktops through a small GNUstep application.'],
